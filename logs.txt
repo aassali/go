@@ -1,0 +1,32 @@
+[10/11/2021 18:08:58] aassali connected from 127.0.0.1:44712
+[10/11/2021 18:09:28] antoine connected from 127.0.0.1:45626
+[10/11/2021 18:10:15] new_user connected from 127.0.0.1:46764
+[10/11/2021 18:11:48] antoine is disconnected [total client 2]
+[10/11/2021 18:11:54] aassali is disconnected [total client 1]
+[10/11/2021 18:12:02] new_user is disconnected [total client 0]
+[10/11/2021 18:15:56] t0t0 connected from 127.0.0.1:57516
+[10/11/2021 18:16:43] t0t0 is disconnected [total client 0]
+[10/11/2021 18:16:43] tata connected from 127.0.0.1:58302
+[10/11/2021 18:17:12] tata is disconnected [total client 0]
+[10/11/2021 18:17:12] jeVeRentrer connected from 127.0.0.1:59840
+[10/11/2021 18:18:00] aassali connected from 127.0.0.1:33438
+[10/11/2021 18:18:09] antoine connected from 127.0.0.1:33752
+[10/11/2021 18:19:07] aassali connected from 127.0.0.1:35602
+[10/11/2021 18:19:14] antoine connected from 127.0.0.1:35836
+[10/11/2021 18:20:02] aassali is disconnected [total client 1]
+[10/11/2021 18:20:51] antoine connected from 127.0.0.1:38864
+[10/11/2021 18:21:01] aassali connected from 127.0.0.1:39188
+[10/11/2021 18:21:43] aassali connected from 127.0.0.1:40468
+[10/11/2021 18:21:53] antoine connected from 127.0.0.1:40782
+[10/11/2021 18:22:09] aassali is disconnected [total client 1]
+[10/11/2021 18:22:19] aassali connected from 127.0.0.1:41470
+[11/11/2021 15:18:07] Christophe connected from 127.0.0.1:57830
+[11/11/2021 15:18:28] Stephane connected from 127.0.0.1:58318
+[11/11/2021 15:19:15] Christophe connected from 127.0.0.1:59972
+[11/11/2021 15:19:34] Stephane connected from 127.0.0.1:60522
+[11/11/2021 15:20:08] Christophe is disconnected [total client 1]
+[11/11/2021 16:19:22] Carolinux connected from 127.0.0.1:53730
+[11/11/2021 16:20:15] Antolinux connected from 127.0.0.1:54800
+[11/11/2021 16:21:28] Antolinux is disconnected [total client 1]
+[15/11/2021 17:02:13] Adrien connected from 127.0.0.1:32846
+[15/11/2021 17:02:41] Fabien connected from 127.0.0.1:32848
